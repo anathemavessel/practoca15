@@ -1,0 +1,31 @@
+.px-12{
+    padding: 0px 150px;
+}
+.py-12{
+    padding: 150px 0px;
+}
+body{
+    background-color: #37517e;
+}
+.fontT1{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 5em;
+    color: #fff;
+}
+.fontT2{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 2em;
+    color: #fff;
+}
+.video{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 1.2em;
+    color: #fff;
+}
+.iconFooter{
+    width: 8%;
+}
+footer{
+    padding: 20px 100px;
+    background-color: #F3F5FA;
+}
